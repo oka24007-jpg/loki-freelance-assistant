@@ -16,6 +16,7 @@ SAFE_DIRECT_CATEGORIES = {
     "excel",
     "data_analysis",
     "sql",
+    "gis",
 }
 
 # If the accumulated soft-negative penalties reach this value,
